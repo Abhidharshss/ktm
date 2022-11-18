@@ -1,0 +1,244 @@
+body{
+    margin: 0;
+}
+.first{
+    background-image: url('images/ktm.jpg');
+    background-size: 100% 100%;
+    width: 100%;
+    height: 785px;
+}.flex-container {
+    display: flex;
+    margin-left: 223px;
+  }
+  
+  .flex-container > div {
+    width: 500px;
+    line-height: 150px;
+    font-size: 30px;
+  }#h{
+    margin-left: 90px;
+  }#two{
+    margin-top: 75px;
+  }.flexcontainer {
+    display: flex;
+    margin-left: 40px;
+  }
+  
+  .flexcontainer > div {
+    width: 715px;
+    line-height: 50px;
+  }.m{
+    margin-left: 21px;
+  }#three{
+    margin-top: 80px;
+  }.flexcontainers {
+    display: flex;
+    align-items: stretch;
+    margin-left: 40px;
+  }
+  .flexcontainers>div {
+    width: 30.7%;
+    line-height: 45px;
+  }#a{
+    margin-left: 45px;
+  }#four{
+    margin-top: 68px;
+  }#fifth{
+    margin-top: 10px;
+  }.flexcontain {
+    display: flex;
+    align-items: stretch;
+    margin-left: 40px;
+  }
+  .flexcontain>div {
+    color: black;
+    width: 30.7%;
+    line-height: 45px;
+  }#b{
+    margin-left: 45px;
+  }#z{
+    margin-left: 45px;
+  }#u{
+    font-size: 38px;
+    font-family: sans-serif;
+  }#par{
+    font-size: 30px;
+    margin-top: 10px;
+  }#red{
+    font-size: 19px;
+    margin-top: -55px;
+  }#par1{
+    font-size: 29px;
+    margin-top: 10px;
+  }#red1{
+    font-size: 20px;
+    margin-top: -55px;
+  }.flex {
+    display: flex;
+    align-items: stretch;
+  }
+  .flex>div {
+    width: 95.6%;
+    margin-left: 40px;
+    text-align: center;
+    line-height: 30px;
+  }#six{
+    margin-top: 47px;
+  }.fle {
+    display: flex;
+    
+    margin-left: 40px;
+  }
+  
+  .fle > div {
+    background-color: black;
+    color: white;
+    width: 726px;
+    text-align: center;
+    height: 550px;
+    font-size: 30px;
+  }#seven{
+    margin-top: 80px;
+  }#set{
+    width: 50%;
+  height: 50%;
+  float: left;
+  }#find{
+    font-size: 39px;
+    margin-top: 155px;
+    font-family: system-ui;
+  }.hr{
+    width: 65px;
+  }.get{
+    margin-left: 10px;
+    font-size: 18px;
+    margin-top: 30px;
+    font-family: sans-serif;
+  }.fol{
+    margin-top: 80px;
+    font-size: 20px;
+    border-style: solid;
+    border-width: 1px;
+    width: 170px;
+    height: 65px;
+    margin-left: 275px;
+  }#im{
+    margin-top: 16px;
+  }.join{
+    font-size: 20px;
+    text-align: center;
+    margin-top: 70px;
+    font-family: sans-serif;
+  }.but{
+    height: 65px;
+    width: 150px;
+    background-color: #ffff;
+    margin-left: 25px;
+    color: #f60;
+    border-color: #f60
+  }#hr{
+    margin-top: 68px;
+  }.fl {
+    display: flex;
+    margin-left: 40px;
+  }
+  
+  .fl > div {
+    color: #bdbdbd;
+    width: 54%;
+    height: 200px;
+    margin-left: 22%;
+  }.flx {
+    display: flex;
+  }
+  
+  .flx > div {
+    background-color: black;
+    color: white;
+    width: 100%;
+    height: 300px;
+    font-size: 30px;
+    margin-top: 125px;
+  }.y{
+    width: 100%;
+    height: 500px;
+    background-color: black;
+  }#nine{
+    margin-top: 130px;
+  } .x {
+    display: flex;
+    margin-top: 10px;
+  }.x > div {
+    color: white;
+    width: 100%;
+    text-align: center;
+    height: 200px;
+    margin-top: 85px;
+  }.ktm{
+    margin-top: 30px;
+  }.nav{
+    color: #ffff;
+    height: 175px;
+    width: 86.5%;
+    vertical-align: middle;
+  }.cot{
+    padding-top: 76px;
+    padding-left: 40px;
+    font-family: system-ui;
+  }#l{
+    margin-left: 30px;
+  }#fl{
+    float: right;
+    margin-right: 28px;
+    margin-top: -175px;
+  }#al{
+    margin-left: 182px;
+  }#alt{
+    margin-left: 20px;
+  }.tt{
+    width: 100%;
+    height: 310px;
+    color: #ffff;
+    margin-top: 115px;
+    text-align: center;
+  }.now{
+    font-size: 21px;
+    font-family: system-ui;
+    padding-top: 21px;
+  }.rc{
+    margin-top: -56px;
+    font-size: 48px;
+    font-family: system-ui;
+  }.or{
+    background-color: #f60;
+    height: 70px;
+    width: 292px;
+    margin-top: -15px;
+    margin-left: 41%;
+  }.an{
+    padding-top: 26px;
+    font-family: sans-serif;
+  }.flex-con {
+    display: flex;
+    margin-left: 213px;
+    margin-top: -10px;
+  }
+  .flex-con > div {
+    background-color: black;
+    color: white;
+    width: 500px;
+    margin: 10px;
+    text-align: center;
+    line-height:  220px;;
+    font-size: 30px;
+  }#u{
+    margin-left: 80px;
+  }.wor{
+    font-size: 35px;
+    font-family: system-ui;
+    margin-top: -18px;
+  }.adv{
+    font-size: 36px;
+    font-family: system-ui;
+    margin-top: -210px;
+  }
